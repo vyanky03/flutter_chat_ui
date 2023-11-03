@@ -15,7 +15,7 @@ AppBar appBar(BuildContext context) {
       )),
     ),
     title: Text(
-      'Chat',
+      'Chats',
       style: GoogleFonts.lato(
         textStyle: Theme.of(context).textTheme.displayLarge,
         fontSize: 28,
