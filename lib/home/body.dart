@@ -1,5 +1,6 @@
 import 'package:chat_app/widgets/category_selector.dart';
 import 'package:chat_app/widgets/favourite_contacts.dart';
+import 'package:chat_app/widgets/recent_chats.dart';
 import 'package:flutter/material.dart';
 
 class Body extends StatelessWidget {
@@ -22,7 +23,10 @@ class Body extends StatelessWidget {
               ),
             ),
             child: const Column(
-              children: [FavouriteContacts()],
+              children: [
+                FavouriteContacts(),
+                RecenetChats(),
+              ],
             ),
           ),
         ),
