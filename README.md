@@ -1,16 +1,7 @@
-# chat_app
+A demo chat UI app made with flutter.
 
-A new Flutter project.
+Home Screen:<br />
+<img src="https://github.com/vyanky03/flutter_chat_ui/assets/99646164/db2025c7-2b66-4ac6-a396-51f16fc30921" width="40%" height="40%"><br />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Chat Screen:<br />
+<img src="https://github.com/vyanky03/flutter_chat_ui/assets/99646164/f3134805-2361-49c1-a6a9-f769c0a29950" width="40%" height="40%">  
